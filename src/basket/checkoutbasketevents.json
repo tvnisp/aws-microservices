@@ -1,0 +1,16 @@
+[
+  {
+    "Source": "com.Custom.basket.checkoutbasket",
+    "Detail": "{ \"username\": \"Custom\", \"basket\": \"phone1\" }",
+    "Resources": ["resource1", "resource2"],
+    "DetailType": "CheckoutBasket",
+    "EventBusName": "CustomEventBus"
+  },
+  {
+    "Source": "com.Custom.basket.checkoutbasket",
+    "Detail": "{ \"username\": \"Custom\", \"basket\": \"phone2\" }",
+    "Resources": ["resource1", "resource2"],
+    "DetailType": "CheckoutBasket",
+    "EventBusName": "CustomEventBus"
+  }
+]

@@ -5,7 +5,7 @@
     "aws-microservices": "bin/aws-microservices.js"
   },
   "scripts": {
-    "deploy": "cdk deploy",
+    "deploy": "cdk deploy --profile panos",
     "synth": "cdk synth",
     "format": "prettier --write ."
   },
